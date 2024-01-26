@@ -1,0 +1,2 @@
+-Messing around with Twitch API
+-Successfully able to control NeoPixel led based on information received from twitch chat
